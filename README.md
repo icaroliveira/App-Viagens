@@ -1,6 +1,6 @@
 # App-Viagens
 App feito com SwiftUI<br>
-# Tecnologias Utilizadas<br>
+# Tecnologias  e Técnicas Utilizadas<br>
 - `SwiftUI`: Um framework que permite a construção de interfaces de uma forma muito mais inovadora e simples.
 - `VStack`, `HStack`, `ZStack`: Componente que permite agrupar elementos de maneira vertical, horizontal ou no eixo Z (elementos dispostos em cima de outros).
 - `Text`: Componente que permite criar Textos.
