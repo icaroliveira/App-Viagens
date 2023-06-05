@@ -8,6 +8,6 @@ App feito 100% com SwiftUI<br>
 - `NavigationView`: Componente que permite a navegação entre telas.
 - `@State`: Criação de variáveis de estado, que atualizam o componente conforme o seu valor é alterado.
 - Criação de componentes personalizados com passagem de parâmetros.
-- Modificadores: Aprenda a mudar os estilos dos componentes.
-- Responsividade: Aprenda a tornar seu aplicativo responsivo, de maneira com que funcione em diferentes tipos de tela. 
+- Modificadores: Mudar os estilos dos componentes.
+- Responsividade: Tornar o aplicativo responsivo, de maneira com que funcione em diferentes tipos de tela. 
 E muito mais! 
